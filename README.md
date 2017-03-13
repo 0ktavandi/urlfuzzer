@@ -2,16 +2,16 @@
 
 #how to use
 
-rootd@foo:~# ./foo google.com
--> Enter brutelist = word.txt
--> Enter ext = zip
--> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = database
--> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = config
--> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = backup
--> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = 
--> google.com/java.zip : NO
--> google.com/showthread.zip : NO
--> google.com/dl.zip : NO
--> google.com/rw.zip : NO
--> google.com/phishing.zip : NO
--> google.com/sz.zip : NO
+@foo:~# ./foo google.com<br/>
+-> Enter brutelist = word.txt<br/>
+-> Enter ext = zip<br/>
+-> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = database<br/>
+-> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = config<br/>
+-> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = backup<br/>
+-> perlu tambahan gk masbro ? (masukan jika ingin tambahan) = <br/>
+-> google.com/java.zip : NO<br/>
+-> google.com/showthread.zip : NO<br/>
+-> google.com/dl.zip : NO<br/>
+-> google.com/rw.zip : NO<br/>
+-> google.com/phishing.zip : NO<br/>
+-> google.com/sz.zip : NO<br/>
