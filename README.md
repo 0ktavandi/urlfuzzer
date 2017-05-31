@@ -17,5 +17,5 @@
 -> google.com/sz.zip : NO<br/>
 
 
-#Result 
+#Result <br/>
 @foo:~# cat log.txt
