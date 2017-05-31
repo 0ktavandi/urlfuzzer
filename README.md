@@ -15,3 +15,7 @@
 -> google.com/rw.zip : NO<br/>
 -> google.com/phishing.zip : NO<br/>
 -> google.com/sz.zip : NO<br/>
+
+
+#Result 
+@foo:~# cat log.txt
